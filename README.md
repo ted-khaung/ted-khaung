@@ -1,8 +1,8 @@
 <Hello, World!>
 
---I'm currently striving to make a career pivot to data engineering.
---I'm starting with basic Python and SQL skills.
---Determined to build data pipeline projects within 2 months. 
+-- I'm currently striving to make a career pivot to data engineering.
+-- I'm starting with basic Python and SQL skills.
+-- Determined to build data pipeline projects within 2 months. 
 
 <!--
 **ted-khaung/ted-khaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
